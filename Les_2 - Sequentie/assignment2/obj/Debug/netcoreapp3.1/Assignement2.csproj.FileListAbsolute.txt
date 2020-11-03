@@ -1,0 +1,13 @@
+C:\Users\Laure\source\repos\Week2\Assignement2\bin\Debug\netcoreapp3.1\Assignement2.exe
+C:\Users\Laure\source\repos\Week2\Assignement2\bin\Debug\netcoreapp3.1\Assignement2.deps.json
+C:\Users\Laure\source\repos\Week2\Assignement2\bin\Debug\netcoreapp3.1\Assignement2.runtimeconfig.json
+C:\Users\Laure\source\repos\Week2\Assignement2\bin\Debug\netcoreapp3.1\Assignement2.runtimeconfig.dev.json
+C:\Users\Laure\source\repos\Week2\Assignement2\bin\Debug\netcoreapp3.1\Assignement2.dll
+C:\Users\Laure\source\repos\Week2\Assignement2\bin\Debug\netcoreapp3.1\Assignement2.pdb
+C:\Users\Laure\source\repos\Week2\Assignement2\obj\Debug\netcoreapp3.1\Assignement2.csprojAssemblyReference.cache
+C:\Users\Laure\source\repos\Week2\Assignement2\obj\Debug\netcoreapp3.1\Assignement2.AssemblyInfoInputs.cache
+C:\Users\Laure\source\repos\Week2\Assignement2\obj\Debug\netcoreapp3.1\Assignement2.AssemblyInfo.cs
+C:\Users\Laure\source\repos\Week2\Assignement2\obj\Debug\netcoreapp3.1\Assignement2.csproj.CoreCompileInputs.cache
+C:\Users\Laure\source\repos\Week2\Assignement2\obj\Debug\netcoreapp3.1\Assignement2.dll
+C:\Users\Laure\source\repos\Week2\Assignement2\obj\Debug\netcoreapp3.1\Assignement2.pdb
+C:\Users\Laure\source\repos\Week2\Assignement2\obj\Debug\netcoreapp3.1\Assignement2.genruntimeconfig.cache

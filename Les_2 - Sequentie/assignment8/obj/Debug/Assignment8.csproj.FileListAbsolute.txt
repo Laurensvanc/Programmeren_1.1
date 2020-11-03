@@ -1,0 +1,10 @@
+C:\Users\Laure\source\repos\Week2\Assignment8\bin\Debug\Assignment8.exe.config
+C:\Users\Laure\source\repos\Week2\Assignment8\bin\Debug\Assignment8.exe
+C:\Users\Laure\source\repos\Week2\Assignment8\bin\Debug\Assignment8.pdb
+C:\Users\Laure\source\repos\Week2\Assignment8\obj\Debug\assignment8.csprojAssemblyReference.cache
+C:\Users\Laure\source\repos\Week2\Assignment8\obj\Debug\Assignment8.Form1.resources
+C:\Users\Laure\source\repos\Week2\Assignment8\obj\Debug\Assignment8.Properties.Resources.resources
+C:\Users\Laure\source\repos\Week2\Assignment8\obj\Debug\assignment8.csproj.GenerateResource.cache
+C:\Users\Laure\source\repos\Week2\Assignment8\obj\Debug\assignment8.csproj.CoreCompileInputs.cache
+C:\Users\Laure\source\repos\Week2\Assignment8\obj\Debug\Assignment8.exe
+C:\Users\Laure\source\repos\Week2\Assignment8\obj\Debug\Assignment8.pdb
